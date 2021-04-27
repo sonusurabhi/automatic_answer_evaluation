@@ -1,0 +1,2 @@
+object oriented programming,object,class
+compile time polymorhism,multiple methods,class,different parameters
